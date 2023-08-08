@@ -4,5 +4,5 @@ my first calculator make from python
 ## Installation
 
 ```bash
-pip install telegram
+pip install tk
 ```
