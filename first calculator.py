@@ -30,7 +30,7 @@ class app(Frame):
         self.option_add("*Font", 'tahoma 20 bold')
         self.pack(expand=YES, fill=BOTH)
         self.master.title("first calculator")
-        self.master.icon("")
+        
 
         screen_width = root.winfo_screenwidth()
         screen_height = root.winfo_screenheight()
