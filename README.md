@@ -3,6 +3,7 @@ my first calculator make from python
 
 ## Installation
 
+install tkinter
 ```bash
 pip install tk
 ```
