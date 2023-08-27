@@ -1,7 +1,7 @@
-# first_calculator_from_python
+# first_calculator_from_python 🧮
 my first calculator make from python
 
-## Installation
+## Installation 📩
 
 install tkinter
 ```bash
