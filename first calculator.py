@@ -1,3 +1,4 @@
+#make by Amirali Zandi
 from tkinter import*
 from os import system
 
