@@ -1,4 +1,4 @@
-#make by Amirali Zandi
+# 🐼✋  𝔸爪𝒾ⓡⓐℓ𝐢 𝐙𝔞几𝐝Ⓘ  😂👊
 from tkinter import*
 from os import system
 
